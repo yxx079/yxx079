@@ -33,7 +33,7 @@
 
 
 ## 📫𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆
-<a href="https://www.linkedin.com/in/xue-yuxi-516b82241">
+<a href="www.linkedin.com/in/yuxi-xue-monica">
   <img src="https://img.shields.io/badge/-My%20LinkedIn%20Page-blue?style=social&logo=LinkedIn">
 </a>
 
