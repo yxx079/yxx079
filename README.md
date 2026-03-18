@@ -33,9 +33,9 @@
 
 
 ## 📫𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆
-<a href="https://www.linkedin.com/in/yuxi-xue-monica">
+<!-- <a href="https://www.linkedin.com/in/yuxi-xue-monica">
   <img src="https://img.shields.io/badge/-My%20LinkedIn%20Page-blue?style=social&logo=LinkedIn">
-</a>
+</a> -->
 
 [![Email](https://img.shields.io/badge/-Send%20Email%20To%20Me-white?style=social&logo=gmail&logoColor=%23EA4335)](mailto:yuxi200253@gmail.com)
 
